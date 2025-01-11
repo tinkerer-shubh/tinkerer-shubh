@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **a metaverse app**
 
+- 📫 How to reach me **syhumbe1@gmail.com**
+
 
 <p align="left">
 </p>
