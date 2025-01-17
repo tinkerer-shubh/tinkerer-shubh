@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinkerer-shubh&label=Profile%20views&color=0e75b6&style=flat" alt="tinkerer-shubh" /> </p>
 
-- 🔭 I’m currently working on **a 2d-metaverse-app**
+
 
 - 📫 How to reach me **syhumbe1@gmail.com**
 
